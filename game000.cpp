@@ -1,3 +1,7 @@
+/**
+ * 算法实验相关代码
+ * */
+
 #include<iostream>
 #include<fstream>
 #include<cstring>
