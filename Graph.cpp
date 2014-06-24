@@ -19,7 +19,7 @@ typedef struct {
 void CreateMGraph(MGraph *G){
 
 	int i,j,k,w;
-	cout<<"点数和边数"<<endl;
+	cout<<"点数和边数(输入一个数回车）"<<endl;
 	cin>>G->numVertexes>>G->numEdges;
 	for(i = 0 ;i < G->numVertexes;i++){
 		cout<<"第"<<i+1<<"个顶点"<<endl;
