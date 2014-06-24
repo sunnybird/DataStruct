@@ -1,3 +1,8 @@
+/**
+ * 图相关实验代码
+ * 
+ * */
+
 #include <iostream>
 using namespace std;
 #define MAXVEX 100
